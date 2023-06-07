@@ -1,0 +1,1 @@
+<p>The distance between San Francisco CA, and Denver CO is too large, not useful for the user</p>

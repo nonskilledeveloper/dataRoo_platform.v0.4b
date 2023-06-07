@@ -1,0 +1,1 @@
+<p>Result is somewhat satisfying even though the same image is repeated but that is the only image with a clear and direct reference to query, penalized because does not meet criteria #5 No duplicates in guidelines and the subtext in first image is not in english.</p>

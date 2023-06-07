@@ -1,0 +1,1 @@
+<p>Rating is HS because is answering the implicit question in a knowledge card with no need to click in a link to know the answer.</p>

@@ -1,0 +1,1 @@
+<p>Este es un texto de ejemplo dentro de una ventana modal</p>
